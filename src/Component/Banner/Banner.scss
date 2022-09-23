@@ -1,0 +1,23 @@
+@import "./../../sass/color.scss";
+
+
+.Banner {
+    background-color: $appBlue;
+    position: fixed;
+}
+
+.Banner .pm {
+    position: fixed;
+    // max-width: 10000vh; 
+    max-width: 60%;
+    max-height: 50%;
+    position: relative;
+    // max-height: -10%;
+    margin-top: 5.7%;   
+    cursor: pointer;
+    @media(max-width: 1000px){
+        margin-top: 8%;
+    }
+   
+}
+

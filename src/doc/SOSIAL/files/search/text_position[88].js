@@ -1,0 +1,1 @@
+positionForPages[88]={"page":88,"positions":[{"word":"Sosial","left":0.076527,"top":0.058646,"width":0.167238,"height":0.033266},{"word":"87","left":0.921329,"top":0.954886,"width":0.022047,"height":0.009645}]};

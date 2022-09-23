@@ -1,0 +1,1 @@
+positionForPages[33]={"page":33,"positions":[{"word":"Ekonomi","left":0.079653,"top":0.058640,"width":0.258361,"height":0.033099},{"word":"32","left":0.920857,"top":0.957029,"width":0.019646,"height":0.009632}]};

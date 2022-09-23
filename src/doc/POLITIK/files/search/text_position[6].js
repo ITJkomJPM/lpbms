@@ -1,0 +1,1 @@
+positionForPages[6]={"page":6,"positions":[{"word":"Politik","left":0.079652,"top":0.058651,"width":0.187816,"height":0.033099},{"word":"05","left":0.921401,"top":0.954890,"width":0.021974,"height":0.009645}]};

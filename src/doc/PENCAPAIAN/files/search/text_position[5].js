@@ -1,0 +1,1 @@
+positionForPages[5]={"page":5,"positions":[{"word":"Pencapaian","left":0.079652,"top":0.058651,"width":0.342549,"height":0.040853},{"word":"04","left":0.921401,"top":0.954890,"width":0.024011,"height":0.009645}]};

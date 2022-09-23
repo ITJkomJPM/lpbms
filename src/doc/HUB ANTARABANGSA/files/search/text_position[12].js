@@ -1,0 +1,1 @@
+positionForPages[12]={"page":12,"positions":[{"word":"Hubungan","left":0.079653,"top":0.060522,"width":0.308044,"height":0.039310},{"word":" Antarabangsa","left":0.407252,"top":0.060522,"width":0.417357,"height":0.039310},{"word":"11","left":0.920857,"top":0.957131,"width":0.010878,"height":0.009471}]};
