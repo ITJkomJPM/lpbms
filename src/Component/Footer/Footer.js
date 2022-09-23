@@ -26,7 +26,7 @@ export const Footer = () => {
                         
                         {/* <div class="cursor"></div> */}
                     </div>
-                    <div class="polText">POLITIK</div>
+                    <a class="polText" href="http://online.dccomm.gov.my/InspirasiSetahunKM/politik/">POLITIK</a>
 
                     <div class="mask-c">
                         <span class="ok-btn2">
